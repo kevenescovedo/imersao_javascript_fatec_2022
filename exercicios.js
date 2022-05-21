@@ -16,7 +16,7 @@
 
 
 
-//4)Crie um função que percorra o vetor e mostre todos os números pares desse vetor(você pode utilizar um vetor fixo,ou seja definido)[]
+//4)Crie um função que percorra o vetor e retorne outro vetor com todos os números pares desse vetor(você pode utilizar um vetor fixo,ou seja definido)[]
 
 
 //5)Crie uma classe Jogador que contenha os seguintes atributos, time, gols, cartoes_vermelhos,
